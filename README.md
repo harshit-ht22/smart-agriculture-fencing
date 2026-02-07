@@ -11,7 +11,7 @@ It combines hardware sensors with a real-time monitoring dashboard, allowing far
 ---
 
 ## Live Demo
-🔗 https://city-grid-monitor-2722.vercel.app/
+🔗 https://golden-buy-36675663.figma.site
 
 ---
 
